@@ -3,6 +3,7 @@ Social Buttons for Bootstrap
 ============================
 [![npm version](https://badge.fury.io/js/bootstrap-social.svg)](https://badge.fury.io/js/bootstrap-social)
 [![Bower version](https://badge.fury.io/bo/bootstrap-social.svg)](https://badge.fury.io/bo/bootstrap-social)
+[![jsDelivr Hits](https://data.jsdelivr.com/v1/package/gh/lipis/bootstrap-social/badge?style=rounded)](https://www.jsdelivr.com/package/gh/lipis/bootstrap-social)
 
 Social Buttons made in pure CSS based on
 [Bootstrap](http://twbs.github.io/bootstrap/) and
